@@ -1,15 +1,15 @@
 ![task-1.png](https://i.postimg.cc/brLqq01m/web-infrastructure-task-2.png)
 # Three-Server Web Infrastructure Design
 
-## Server 1 (Web Server):
+## (Web Server):
 - Nginx installed as the web server, serving static content and forwarding dynamic requests to the application server.
 - Hosts the application files (code base).
 
-## Server 2 (Application Server):
+## (Application Server):
 - Application server hosts the dynamic part of the website, processing user requests, accessing the database, and generating dynamic content.
 - Communicates with the web server for routing requests and handling computations.
 
-## Server 3 (Database):
+## (Database):
 - MySQL database used to store structured data, including user accounts, content, and settings.
 - Operates as a primary-replica (master-slave) cluster for data redundancy.
 

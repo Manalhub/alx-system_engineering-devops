@@ -2,15 +2,15 @@
 
 # Secure and Monitored Three-Server Web Infrastructure Design
 
-## Server 1 (Web Server):
+## (Web Server):
 - Nginx installed as the web server to serve static content and forward dynamic requests to the application server.
 - Hosts the application files (code base).
 
-## Server 2 (Application Server):
+## (Application Server):
 - Application server hosts the dynamic part of the website, processing user requests, accessing the database, and generating dynamic content.
 - Communicates with the web server and database server.
 
-## Server 3 (Database):
+## (Database):
 - A MySQL database operates as a primary-replica (master-slave) cluster for data redundancy.
 - Both primary and replica nodes can accept read requests.
 
