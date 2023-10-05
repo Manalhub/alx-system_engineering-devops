@@ -39,5 +39,5 @@ listen myserver
         bind *:443 ssl crt /etc/haproxy/ssl/www.nuux.tech.pem
         redirect scheme https code 301 if !{ ssl_fc }
         balance roundrobin
-        server server1 18.207.1.87:80 check
-        server server2 52.206.189.175:80 check
+        server server1 52.86.1.153:80 check
+        server server2 54.144.155.112:80 check
