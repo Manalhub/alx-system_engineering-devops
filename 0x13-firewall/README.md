@@ -28,9 +28,9 @@ The project addresses the need for setting up a firewall on servers to enhance s
 - Provide the `ufw` commands used in your answer file.
 
 #### Repository Details:
-- GitHub Repository: [alx-system_engineering-devops](https://github.com/your-username/alx-system_engineering-devops)
+- GitHub Repository: [alx-system_engineering-devops](https://github.com/Manalhub/alx-system_engineering-devops)
 - Directory: 0x13-firewall
-- File: [0-block_all_incoming_traffic_but](0x13-firewall/0-block_all_incoming_traffic_but)
+- File: [0-block_all_incoming_traffic_but](https://github.com/Manalhub/alx-system_engineering-devops/blob/master/0x13-firewall/0-block_all_incoming_traffic_but)
 
 ### 1. Port forwarding (Advanced)
 #### Requirements:
@@ -49,4 +49,4 @@ root@03-web-01:~# netstat -lpn
 #### Repository Details:
 - GitHub Repository: [alx-system_engineering-devops](https://github.com/your-username/alx-system_engineering-devops)
 - Directory: 0x13-firewall
-- File: [100-port_forwarding](0x13-firewall/100-port_forwarding)
+- File: [100-port_forwarding](https://github.com/Manalhub/alx-system_engineering-devops/blob/master/0x13-firewall/100-port_forwarding)
