@@ -38,7 +38,7 @@ root@ubuntu:~#
 #### Repository Details:
 - GitHub Repository: [alx-system_engineering-devops](https://github.com/Manalhub/alx-system_engineering-devops)
 - Directory: 0x12-web_stack_debugging_2
-- File: [0-iamsomeoneelse](alx-system_engineering-devops/0x12-web_stack_debugging_2/0-iamsomeoneelse)
+- File: [0-iamsomeoneelse](0x12-web_stack_debugging_2/0-iamsomeoneelse)
 
 ### 1. Run Nginx as Nginx (mandatory)
 #### Requirements:
@@ -63,7 +63,7 @@ root@ab6f4542747e:~#
 #### Repository Details:
 - GitHub Repository: [alx-system_engineering-devops](https://github.com/Manalhub/alx-system_engineering-devops)
 - Directory: 0x12-web_stack_debugging_2
-- File: [1-run_nginx_as_nginx](alx-system_engineering-devops/0x12-web_stack_debugging_2/1-run_nginx_as_nginx)
+- File: [1-run_nginx_as_nginx](0x12-web_stack_debugging_2/1-run_nginx_as_nginx)
 
 ### 2. 7 lines or less (advanced)
 #### Requirements:
@@ -74,4 +74,4 @@ root@ab6f4542747e:~#
 #### Repository Details:
 - GitHub Repository: [alx-system_engineering-devops](https://github.com/Manalhub/alx-system_engineering-devops)
 - Directory: 0x12-web_stack_debugging_2
-- File: [100-fix_in_7_lines_or_less](alx-system_engineering-devops/0x12-web_stack_debugging_2/100-fix_in_7_lines_or_less)
+- File: [100-fix_in_7_lines_or_less](0x12-web_stack_debugging_2/100-fix_in_7_lines_or_less)
