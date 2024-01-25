@@ -5,4 +5,4 @@ exec { 'set limit to 2000':
 }
 exec { 'reboot nginx':
   command => '/usr/sbin/service nginx restart'
-}}
+}
